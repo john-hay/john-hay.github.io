@@ -1,3 +1,5 @@
+All credits go to original repository: https://github.com/tmKamal/under-construction-template
+
 # Animated Under Construction Template
 
 View the demo [here.](https://tmkamal.github.io/under-construction-template/)
